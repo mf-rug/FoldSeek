@@ -1,3 +1,3 @@
 # FoldSeek
 ## Installation
-Copy this files in the /plg/ subdirectory of your Yasara installation folder.
+Copy this file in the /plg/ subdirectory of your Yasara installation folder.
